@@ -1,5 +1,5 @@
 # Credit-Risk-Analytics-and-Modelling
-This project helps banks identify high-risk borrowers, reduce loan defaults, optimize approval rules, and balance risk vs profitability using data-driven insights on income, employment, credit history, loan behavior and prective modelling (ML).
+This project helps banks identify high-risk borrowers, reduce loan defaults, optimize approval rules, and balance risk vs profitability using data-driven insights on income, employment, credit history, loan behavior and predictive modelling (ML).
 
 The Credit Risk Analytics project analyzes borrower data to identify patterns that drive loan defaults and to help design better underwriting, risk management, and profitability strategies. Using a Kaggle dataset, it evaluates multiple borrower and loan attributes such as age, income, employment, home ownership, loan intent, loan grade, interest rate, and credit history.
 
